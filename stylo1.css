@@ -1,0 +1,277 @@
+body {
+
+    background-image: url("lock\ screen\ wallpaper\ purple\ aesthetic\ anime.jpeg")
+}
+
+*{
+    margin: 0px;
+    padding: 5px;
+}
+
+#tituloP{
+    color:rgb(121, 108, 143);
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+nav{
+    width: 300px;
+    border: 0px solid rgb(87, 11, 83);
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.menu li{
+    margin-bottom: 1px;
+}
+
+.menu a{
+    color: white;
+    background-color: #3b134e;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #575757;
+}
+
+footer{
+    color: white;
+    font-family: Verdana;
+    font-size: 10px;
+    align-items: middle;
+}
+
+/* Nav Boton Regresar*/
+.regresar{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.regresar li{
+    margin-bottom: 1px;
+}
+
+.regresar a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.regresar a:hover{
+background-color: #575757;
+}
+*{
+    margin: 0px;
+    padding: 5px;
+}
+
+#tituloP{
+    color:rgb(245, 245, 241);
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+nav{
+    width: 300px;
+    border: 0px solid black;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.menu li{
+    margin-bottom: 1px;
+}
+
+.menu a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #575757;
+}
+
+footer{
+    color: white;
+    font-family: Verdana;
+    font-size: 10px;
+    align-items: middle;
+}
+
+/* Nav Boton Regresar*/
+.regresar{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.regresar li{
+    margin-bottom: 1px;
+}
+
+.regresar a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.regresar a:hover{
+background-color: #575757;
+}
+*{
+    margin: 0px;
+    padding: 5px;
+}
+
+#tituloP{
+    color:rgb(245, 245, 241);
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+nav{
+    width: 300px;
+    border: 0px solid rgb(74, 17, 100);
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.menu li{
+    margin-bottom: 1px;
+}
+
+.menu a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #575757;
+}
+
+footer{
+    color: white;
+    font-family: Verdana;
+    font-size: 10px;
+    align-items: middle;
+}
+
+/* Nav Boton Regresar*/
+.regresar{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.regresar li{
+    margin-bottom: 1px;
+}
+
+.regresar a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.regresar a:hover{
+background-color: #575757;
+}
+*{
+    margin: 0px;
+    padding: 5px;
+}
+
+#tituloP{
+    color:rgb(245, 245, 241);
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+nav{
+    width: 300px;
+    border: 0px solid rgb(214, 165, 221);
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.menu li{
+    margin-bottom: 1px;
+}
+
+.menu a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #575757;
+}
+
+footer{
+    color: white;
+    font-family: Verdana;
+    font-size: 10px;
+    align-items: middle;
+}
+
+/* Nav Boton Regresar*/
+.regresar{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.regresar li{
+    margin-bottom: 1px;
+}
+
+.regresar a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.regresar a:hover{
+background-color: #575757;
+}
